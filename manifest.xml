@@ -1,0 +1,11 @@
+<package>
+  <description brief="Package description.">
+  </description>
+  <author>Author</author>
+  <license>BSD</license>
+  <review status="unreviewed"/>
+  <url>http://ros.org/wiki/some_package</url>
+  <depend package="roscpp"/>
+</package>
+
+
